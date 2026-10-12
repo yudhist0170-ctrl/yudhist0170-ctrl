@@ -45,6 +45,10 @@ I’m currently an **intern at Barunastra**, in the **Programming Division**, **
 
 I’m currently building my skills in **programming** and **web development** through my internship at Barunastra and independent learning. I’m also interested in exploring how technology can support geospatial applications.
 
+<p align="center">
+  <img src="./Robotic-boat.gif" alt="Pixel art of a person building a robotic boat" width="960">
+</p>
+
 ## Selected achievements
 
 - 1st Place, National Level Quiz Competition, AGAIN-ION, University of Muhammadiyah Jember (2026)
