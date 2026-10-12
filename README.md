@@ -4,6 +4,8 @@
 
 I’m a Geomatics Engineering student at **Sepuluh Nopember Institute of Technology (ITS)** with an interest in technology, web development, and geospatial data. I enjoy learning through hands-on projects, collaborating with others, and building useful solutions.
 
+<img src="./Surveyor.gif" alt="Surveyor measuring with a total station" width="720">
+
 I’m currently an **intern at Barunastra**, in the **Programming Division**, **Web Development Subdivision**.
 
 - 🌱 Currently developing my skills in **web development** and **programming**
