@@ -12,6 +12,13 @@ I’m currently an **intern at Barunastra**, in the **Programming Division**, **
 - 🤝 Enjoy teamwork, research, and organizing activities
 - 📍 Situbondo, East Java, Indonesia
 
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Geomatics+Engineering+Student;Programming+%26+Web+Development+Intern;Exploring+Geospatial+Technology"
+    alt="Typing animation"
+  />
+</p>
+
 ## Skills
 
 **Technical skills**
@@ -33,12 +40,6 @@ I’m currently an **intern at Barunastra**, in the **Programming Division**, **
 ## What I’m learning
 
 I’m currently building my skills in **programming** and **web development** through my internship at Barunastra and independent learning. I’m also interested in exploring how technology can support geospatial applications.
-
-## Selected experience
-
-- **Intern — Barunastra, Programming / Web Development** *(Current)*
-- **Volunteer — Voluntiiran Surabaya (2026)** — supported children in educational activities and coordinated with fellow volunteers.
-- **Secretary General — Scout Organization (2024–2025)** — managed administrative tasks and supported scouting activities.
 
 ## Selected achievements
 
