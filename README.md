@@ -5,7 +5,7 @@
 I’m a Geomatics Engineering student at **Sepuluh Nopember Institute of Technology (ITS)** with an interest in technology, web development, and geospatial data. I enjoy learning through hands-on projects, collaborating with others, and building useful solutions.
 
 <p align="center">
-  <img src="./Surveyor_pixel.gif" alt="Pixel art surveyor using a total station" width="720">
+  <img src="./Surveyor-pixel.gif" alt="Pixel art surveyor using a total station" width="720">
 </p>
 
 I’m currently an **intern at Barunastra**, in the **Programming Division**, **Web Development Subdivision**.
