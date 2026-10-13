@@ -1,4 +1,4 @@
-# Yooo, My Name is Yudhistiro Harimurti Puspoyo
+# Hii, My Name is Yudhistiro Harimurti Puspoyo
 
 ### Geomatics Engineering Student at ITS | Programming & Web Development
 
