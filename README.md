@@ -12,7 +12,7 @@ I’m currently an **intern at Barunastra**, in the **Programming Division**, **
 
 - 🌱 Currently developing my skills in **web development** and **programming**
 - 🗺️ Interested in **geospatial technology**, mapping, and data processing
-- 🧰 Familiar with **QGIS**, **ArcGIS**, and **Python** at a basic to intermediate level
+- 🧰 Familiar with **QGIS**, **ArcGIS**, **AutoCAD**, **Civil3D**, and **Python** at a basic to intermediate level
 - 🤝 Enjoy teamwork, research, and organizing activities
 - 📍 Situbondo, East Java, Indonesia
 
