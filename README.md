@@ -25,21 +25,12 @@ I’m currently an **intern at Barunastra**, in the **Programming Division**, **
 
 ## Skills
 
-**Technical skills**
-
-- QGIS — intermediate
-- ArcGIS — basic
-- Python — basic programming and data processing
-- Microsoft Word, Excel, and PowerPoint
-- Research, basic cartography, and copywriting
-
-**Soft skills**
-
-- Teamwork
-- Communication and public speaking
-- Problem-solving
-- Time management
-- Adaptability
+<p align="center">
+  <img src="./Maps.gif" alt="Maps and GIS pixel art" width="720">
+  <img src="./Programming.gif" alt="Programming pixel art" width="720">
+  <img src="./Teamwork.gif" alt="Teamwork pixel art" width="720">
+  <img src="./Problem Solve.gif" alt="Problem-solving pixel art" width="720">
+</p>
 
 ## What I’m learning
 
