@@ -16,6 +16,7 @@ I’m currently an **intern at Barunastra**, in the **Programming Division**, **
 - 🤝 Enjoy teamwork, research, and organizing activities
 - 📍 Situbondo, East Java, Indonesia
 
+
 <p align="center">
   <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"></a>
   <a href="https://qgis.org/"><img src="https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white" alt="QGIS"></a>
@@ -25,6 +26,7 @@ I’m currently an **intern at Barunastra**, in the **Programming Division**, **
   <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"></a>
   <a href="https://github.com/"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
 </p>
+
 
 <p align="center">
   <img
