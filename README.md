@@ -16,6 +16,14 @@ I’m currently an **intern at Barunastra**, in the **Programming Division**, **
 - 🤝 Enjoy teamwork, research, and organizing activities
 - 📍 Situbondo, East Java, Indonesia
 
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)](https://qgis.org/)
+[![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=arcgis&logoColor=white)](https://www.arcgis.com/)
+[![Civil 3D](https://img.shields.io/badge/Civil%203D-8A2BE2?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/civil-3d/)
+[![AutoCAD](https://img.shields.io/badge/AutoCAD-E51050?style=for-the-badge&logo=autodesk&logoColor=white)](https://www.autodesk.com/products/autocad/)
+[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+
 <p align="center">
   <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Geomatics+Engineering+Student;Programming+%26+Web+Development+Intern;Exploring+Geospatial+Technology"
