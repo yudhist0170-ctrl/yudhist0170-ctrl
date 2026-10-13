@@ -28,6 +28,7 @@ I’m currently an **intern at Barunastra**, in the **Programming Division**, **
 <p>
   <img src="./Maps.gif" alt="Maps and GIS pixel art" width="360">
   <img src="./Programming.gif" alt="Programming pixel art" width="360">
+  <p align="center">
   <img src="./Teamwork.gif" alt="Teamwork pixel art" width="360">
   <img src="./Problem Solve.gif" alt="Problem-solving pixel art" width="360">
 </p>
