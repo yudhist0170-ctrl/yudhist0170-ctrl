@@ -35,8 +35,6 @@ I’m currently an **intern at Barunastra**, in the **Programming Division**, **
   />
 </p>
 
-## Skills
-
 <p align="center">
   <img src="./Maps.gif" alt="Maps and GIS pixel art" width="360">
   <img src="./Programming.gif" alt="Programming pixel art" width="360">
