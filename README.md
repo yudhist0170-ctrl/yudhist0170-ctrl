@@ -40,12 +40,6 @@ I’m currently strengthening my skills in programming and web development throu
 <p align="center">
   <img src="./ASV.gif" alt="ASV Robotics of Barunastra" widht="480">
 
-## Selected achievements
-
-- 1st Place, National Level Quiz Competition, AGAIN-ION, University of Muhammadiyah Jember (2026)
-- Selected for the national proposal stage of the Indonesian Student Research Olympiad (OPSI) (2026)
-- 6th Place, Situbondo Regency Mathematics Science Olympiad (2025)
-
 ## Get in touch
 
 - **Email:** [yudhist0170@gmail.com](mailto:yudhist0170@gmail.com)
