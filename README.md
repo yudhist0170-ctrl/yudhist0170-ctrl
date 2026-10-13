@@ -1,4 +1,4 @@
-# Hi, I’m Yudhistiro Harimurti Puspoyo 👋
+# Yooo, My Name is Yudhistiro Harimurti Puspoyo
 
 ### Geomatics Engineering Student at ITS | Programming & Web Development
 
@@ -10,11 +10,11 @@ I’m a Geomatics Engineering student at **Sepuluh Nopember Institute of Technol
 
 I’m currently an **intern at Barunastra**, in the **Programming Division**, **Web Development Subdivision**.
 
-- 🌱 Currently developing my skills in **web development** and **programming**
-- 🗺️ Interested in **geospatial technology**, mapping, and data processing
-- 🧰 Familiar with **QGIS**, **ArcGIS**, **AutoCAD**, **Civil3D**, and **Python** at a basic to intermediate level
-- 🤝 Enjoy teamwork, research, and organizing activities
-- 📍 Situbondo, East Java, Indonesia
+- Currently developing my skills in **web development** and **programming**
+-  Interested in **geospatial technology**, mapping, and data processing
+-  Familiar with **QGIS**, **ArcGIS**, **AutoCAD**, **Civil3D**, and **Python** at a basic to intermediate level
+-  Enjoy teamwork, research, and organizing activities
+-  Situbondo, East Java, Indonesia
 
 
 <p align="center">
@@ -54,6 +54,4 @@ I’m currently strengthening my skills in programming and web development throu
 
 - **Email:** [yudhist0170@gmail.com](mailto:yudhist0170@gmail.com)
 - **LinkedIn:** [Yudhistiro Harimurti Puspoyo](https://www.linkedin.com/)
-
-> Replace the LinkedIn link above with your profile’s URL. Add links to your featured repositories here as you publish projects.
 
