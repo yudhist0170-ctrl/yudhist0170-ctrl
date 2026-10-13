@@ -35,7 +35,10 @@ I’m currently an **intern at Barunastra**, in the **Programming Division**, **
 
 ## What I’m learning
 
-I’m currently building my skills in **programming** and **web development** through my internship at Barunastra and independent learning. I’m also interested in exploring how technology can support geospatial applications.
+I’m currently strengthening my skills in programming and web development through my internship at Barunastra, where I’m part of the Programming Division’s Web Development Subdivision. Alongside my internship, I continue learning independently and applying what I learn to practical projects. I’m especially interested in exploring how software and geospatial technologies can work together to support mapping, data visualization, and real-world applications.
+
+<p align="center">
+  <img src="./ASV.gif" alt="ASV Robotics of Barunastra" widht="480">
 
 ## Selected achievements
 
